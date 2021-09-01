@@ -1,0 +1,23 @@
+{
+  "name": "canva-shoot",
+  "version": "1.0.0",
+  "description": "A ufo shooting game",
+  "default": "index.html",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaduveer20/CanvaShoot.git"
+  },
+  "author": "Gopal Khatri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaduveer20/CanvaShoot/issues"
+  },
+  "homepage": "https://github.com/yaduveer20/CanvaShoot#readme"
+}
